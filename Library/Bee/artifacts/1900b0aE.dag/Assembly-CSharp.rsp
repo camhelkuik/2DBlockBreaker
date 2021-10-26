@@ -340,6 +340,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/Ball.cs"
 "Assets/Scripts/Block.cs"
+"Assets/Scripts/GameStatus.cs"
 "Assets/Scripts/Level.cs"
 "Assets/Scripts/LoseCollider.cs"
 "Assets/Scripts/Paddle.cs"
