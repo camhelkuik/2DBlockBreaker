@@ -258,3 +258,87 @@ Received Import Request.
   path: Assets/Prefabs/Game Session.prefab
   artifactKey: Guid(01f555b4c7583e946ba7b9f3e7ef5e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Game Session.prefab using Guid(01f555b4c7583e946ba7b9f3e7ef5e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c99061281982faa94396390534b12769') in 0.007191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 953.177183 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(0b19d02a06b35da43bc0888ba1549527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(0b19d02a06b35da43bc0888ba1549527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da439c6ebd12c5cf1e36fc2afc4a0c26') in 0.002384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 143.457078 seconds.
+  path: Assets/Prefabs/Impact VFX.prefab
+  artifactKey: Guid(7d846c02296ef4dc4abff04ce3e5262c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impact VFX.prefab using Guid(7d846c02296ef4dc4abff04ce3e5262c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f173ba17c4b65574f91b672f52718ac') in 0.008494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.492215 seconds.
+  path: Assets/Scripts/Block.cs
+  artifactKey: Guid(6f9a6fde4d9cfea4ea923eb9bffc2aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Block.cs using Guid(6f9a6fde4d9cfea4ea923eb9bffc2aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cf5a068024c04d40615076b04551b36') in 0.004712 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003320 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3406 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.1 MB.
+System memory in use after: 130.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3902.
+Total: 2.030635 ms (FindLiveObjects: 0.228521 ms CreateObjectMapping: 0.114470 ms MarkObjects: 1.571778 ms  DeleteObjects: 0.110140 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 318.866590 seconds.
+  path: Assets/Scripts/Block.cs
+  artifactKey: Guid(6f9a6fde4d9cfea4ea923eb9bffc2aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Block.cs using Guid(6f9a6fde4d9cfea4ea923eb9bffc2aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4337fb9e595d5cc08d49419310a521') in 0.005590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.533067 seconds.
+  path: Assets/Prefabs/Block.prefab
+  artifactKey: Guid(6be40eaace6c008429a5cc58bd660b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Block.prefab using Guid(6be40eaace6c008429a5cc58bd660b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f7551d757804eb7302668a4fc8f7af') in 0.086193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.384702 seconds.
+  path: Assets/Prefabs/Block.prefab
+  artifactKey: Guid(6be40eaace6c008429a5cc58bd660b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Block.prefab using Guid(6be40eaace6c008429a5cc58bd660b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487abc097431ee3899f12279217218db') in 0.008717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.268422 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(f80dcadcaa3b36b4089408c8a52893e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(f80dcadcaa3b36b4089408c8a52893e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78553d8dd72b6eacf63cc8d3a2510cf') in 0.002284 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002450 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.815 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3406 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.8 MB.
+System memory in use after: 133.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3913.
+Total: 2.355746 ms (FindLiveObjects: 0.251708 ms CreateObjectMapping: 0.138635 ms MarkObjects: 1.869302 ms  DeleteObjects: 0.089886 ms)
+
