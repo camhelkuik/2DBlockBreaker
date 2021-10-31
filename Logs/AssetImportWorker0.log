@@ -246,3 +246,111 @@ Received Import Request.
   path: Assets/Prefabs/Ball.prefab
   artifactKey: Guid(919390a12801ef74786e5b6eff01b2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Ball.prefab using Guid(919390a12801ef74786e5b6eff01b2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7edd9bd923298b3211015a142cf7d99f') in 0.065449 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002216 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.852 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3406 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.8 MB.
+System memory in use after: 133.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3911.
+Total: 2.371740 ms (FindLiveObjects: 0.237949 ms CreateObjectMapping: 0.123968 ms MarkObjects: 1.917562 ms  DeleteObjects: 0.086114 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002220 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.807 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3406 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.8 MB.
+System memory in use after: 133.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3915.
+Total: 2.193854 ms (FindLiveObjects: 0.241302 ms CreateObjectMapping: 0.144781 ms MarkObjects: 1.727873 ms  DeleteObjects: 0.073752 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002224 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.820 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3406 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.8 MB.
+System memory in use after: 133.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3919.
+Total: 2.253499 ms (FindLiveObjects: 0.290959 ms CreateObjectMapping: 0.166571 ms MarkObjects: 1.716000 ms  DeleteObjects: 0.073333 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1345.938692 seconds.
+  path: Assets/Prefabs/Ball.prefab
+  artifactKey: Guid(919390a12801ef74786e5b6eff01b2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ball.prefab using Guid(919390a12801ef74786e5b6eff01b2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d4a75ee9aeec34cb8326a40bdedb78') in 0.064697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 125.905924 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(0b19d02a06b35da43bc0888ba1549527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(0b19d02a06b35da43bc0888ba1549527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3d4274bd6877cce8249c03a08e3dab') in 0.004966 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002449 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.915 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3406 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.8 MB.
+System memory in use after: 133.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3924.
+Total: 2.104388 ms (FindLiveObjects: 0.225168 ms CreateObjectMapping: 0.112165 ms MarkObjects: 1.634146 ms  DeleteObjects: 0.127390 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.256193 seconds.
+  path: Assets/Prefabs/Ball.prefab
+  artifactKey: Guid(919390a12801ef74786e5b6eff01b2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ball.prefab using Guid(919390a12801ef74786e5b6eff01b2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f791c9637393e536747bc8083514009') in 0.062977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.770580 seconds.
+  path: Assets/Scripts/Paddle.cs
+  artifactKey: Guid(55cbb3c131fdf8645966337e13c20050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Paddle.cs using Guid(55cbb3c131fdf8645966337e13c20050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0d12fea262eea2058eb495c9994ca0') in 0.005424 seconds 
