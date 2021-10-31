@@ -307,6 +307,10 @@ PrefabInstance:
       propertyPath: paddle1
       value: 
       objectReference: {fileID: 779629610}
+    - target: {fileID: 4858734077052423643, guid: 919390a12801ef74786e5b6eff01b2f9, type: 3}
+      propertyPath: randomFactor
+      value: 0.2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 919390a12801ef74786e5b6eff01b2f9, type: 3}
 --- !u!1001 &502828637
